@@ -32,12 +32,28 @@ CatSeedLogin 的 Rust 实现版本，提供安全的登录认证功能。
 - ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📈 GitHub 统计
-使用 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 项目生成：
+
+使用 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) 项目生成的统计卡片：
+
+### GitHub 统计卡片
+显示 GitHub 活动统计，包括提交、星标、PR 等数据。
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjiu2024&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjiu2024&layout=compact&theme=radical" alt="Top Languages">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=sanjiu2024&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" style="max-width: 100%; margin-bottom: 10px;">
+  </a>
 </p>
+
+### 编程语言统计卡片
+显示最常用的编程语言分布。
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjiu2024&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" style="max-width: 100%;">
+  </a>
+</p>
+
+> **说明**：这些卡片使用 github-readme-stats 项目生成，可能会因为 GitHub API 速率限制而暂时不可用。如果卡片未显示，请稍后再试。
 
 ## 📫 联系方式
 - 💬 [GitHub Issues](https://github.com/sanjiu2024/sanjiu2024/issues)
